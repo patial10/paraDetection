@@ -6,7 +6,7 @@ image with bounding boxes on paragrphs and recognize those particular cropped pa
 # Some Screenshots:
 ![alt text](static/d.PNG)
 ![alt text](static/b.PNG)
-**Detection**
+**Detection: **
 ![alt text](static/c.PNG)
-**Recognization**
+**Recognization in the form of Api: **
 ![alt text](static/a.PNG)
